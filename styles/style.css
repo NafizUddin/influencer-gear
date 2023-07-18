@@ -90,13 +90,12 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-    /* background-attachment: fixed; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 
-.camera-img {
-    padding-top: 40px;
-    padding-left: 90px;
-}
 
 /* Logo Styles */
 .logo-container {
